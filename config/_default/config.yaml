@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Anja Lamecker # Website name
-baseurl: 'https://nifty-mccarthy-8ab9e3.netlify.app/' # Website URL
+baseurl: '' # Website URL
 copyright: '© {year} Anja Lamecker' # Footer text, e.g. '© {year} Me'
 
 ############################
